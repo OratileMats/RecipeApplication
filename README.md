@@ -53,3 +53,10 @@ Enter 6 to exit
    ```bash
    git clone https://github.com/your-username/recipe-manager.git
    cd recipe-manager
+   Open the project
+
+2. Open the .sln file in Visual Studio
+
+3. Build and run
+
+Press Ctrl + F5 or use Run Without Debugging
